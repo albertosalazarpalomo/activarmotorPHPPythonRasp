@@ -1,0 +1,20 @@
+.theme-showcase {
+    padding-top: 80px;
+}
+
+#loadimage {
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    z-index: 1000;
+}
+
+#loading {
+    display: none;
+    width: 50px;
+}
